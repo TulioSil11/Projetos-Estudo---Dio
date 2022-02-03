@@ -1,0 +1,15 @@
+C:\Users\55319\Documents\Cursos\Programaçao\Estudos\28 - Introduçao ao C# e .Net\Projeto_CSharp\Projeto_CSharp\obj\Debug\net6.0\Projeto_CSharp.csproj.AssemblyReference.cache
+C:\Users\55319\Documents\Cursos\Programaçao\Estudos\28 - Introduçao ao C# e .Net\Projeto_CSharp\Projeto_CSharp\obj\Debug\net6.0\Projeto_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55319\Documents\Cursos\Programaçao\Estudos\28 - Introduçao ao C# e .Net\Projeto_CSharp\Projeto_CSharp\obj\Debug\net6.0\Projeto_CSharp.AssemblyInfoInputs.cache
+C:\Users\55319\Documents\Cursos\Programaçao\Estudos\28 - Introduçao ao C# e .Net\Projeto_CSharp\Projeto_CSharp\obj\Debug\net6.0\Projeto_CSharp.AssemblyInfo.cs
+C:\Users\55319\Documents\Cursos\Programaçao\Estudos\28 - Introduçao ao C# e .Net\Projeto_CSharp\Projeto_CSharp\obj\Debug\net6.0\Projeto_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\55319\Documents\Cursos\Programaçao\Estudos\28 - Introduçao ao C# e .Net\Projeto_CSharp\Projeto_CSharp\bin\Debug\net6.0\Projeto_CSharp.exe
+C:\Users\55319\Documents\Cursos\Programaçao\Estudos\28 - Introduçao ao C# e .Net\Projeto_CSharp\Projeto_CSharp\bin\Debug\net6.0\Projeto_CSharp.deps.json
+C:\Users\55319\Documents\Cursos\Programaçao\Estudos\28 - Introduçao ao C# e .Net\Projeto_CSharp\Projeto_CSharp\bin\Debug\net6.0\Projeto_CSharp.runtimeconfig.json
+C:\Users\55319\Documents\Cursos\Programaçao\Estudos\28 - Introduçao ao C# e .Net\Projeto_CSharp\Projeto_CSharp\bin\Debug\net6.0\Projeto_CSharp.dll
+C:\Users\55319\Documents\Cursos\Programaçao\Estudos\28 - Introduçao ao C# e .Net\Projeto_CSharp\Projeto_CSharp\bin\Debug\net6.0\ref\Projeto_CSharp.dll
+C:\Users\55319\Documents\Cursos\Programaçao\Estudos\28 - Introduçao ao C# e .Net\Projeto_CSharp\Projeto_CSharp\bin\Debug\net6.0\Projeto_CSharp.pdb
+C:\Users\55319\Documents\Cursos\Programaçao\Estudos\28 - Introduçao ao C# e .Net\Projeto_CSharp\Projeto_CSharp\obj\Debug\net6.0\Projeto_CSharp.dll
+C:\Users\55319\Documents\Cursos\Programaçao\Estudos\28 - Introduçao ao C# e .Net\Projeto_CSharp\Projeto_CSharp\obj\Debug\net6.0\ref\Projeto_CSharp.dll
+C:\Users\55319\Documents\Cursos\Programaçao\Estudos\28 - Introduçao ao C# e .Net\Projeto_CSharp\Projeto_CSharp\obj\Debug\net6.0\Projeto_CSharp.pdb
+C:\Users\55319\Documents\Cursos\Programaçao\Estudos\28 - Introduçao ao C# e .Net\Projeto_CSharp\Projeto_CSharp\obj\Debug\net6.0\Projeto_CSharp.genruntimeconfig.cache
